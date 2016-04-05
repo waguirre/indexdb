@@ -1,0 +1,2927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alert",
+				"alert:success	success"
+			],
+			[
+				"_agr_AGre",
+				"_agr_AgreementPercentIcbf"
+			],
+			[
+				"_agr_AGreeme",
+				"_agr_AgreementPercentSena"
+			],
+			[
+				"_agr_Agree",
+				"_agr_AgreementPercentCcf"
+			],
+			[
+				"_pyr_PayrollIbcQ",
+				"_pyr_PayrollIbcQuasiRemuneratedHodQuantity"
+			],
+			[
+				"_agr_AgreementPerce",
+				"_agr_AgreementPercentEpsNoRemunerated"
+			],
+			[
+				"_agr_Agreement",
+				"_agr_AgreementPercentEpsCompany"
+			],
+			[
+				"_agr_AgreementPErcent",
+				"_agr_AgreementPercentEpsCompany"
+			],
+			[
+				"_apr_Appropriation",
+				"_apr_AppropriationsKind"
+			],
+			[
+				"_pyr_PayrollIbcEpsRemu",
+				"_pyr_PayrollIbcEpsRemuneratedHodQuantity"
+			],
+			[
+				"_aux",
+				"_aux_PayrollMonthEnd"
+			],
+			[
+				"_monthlessprd_PayrollIbcAfpRe",
+				"_monthlessprd_PayrollIbcAfpRemuneratedPila"
+			],
+			[
+				"_AgreementSalary",
+				"_AgreementSalaryValue"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"_inyear_",
+				"_inyear_PayrollInterestLayoff"
+			],
+			[
+				"DE",
+				"DEFAULT"
+			],
+			[
+				"_money_MoneyAfpVol",
+				"_money_MoneyAfpVolEmployee"
+			],
+			[
+				"_Payroll",
+				"_PayrollYear"
+			],
+			[
+				"PrdLod",
+				"PrdLogDoneUser"
+			],
+			[
+				"PyrNet",
+				"PyrNetOvertime"
+			],
+			[
+				"_year_PayrollLA",
+				"_inyear_PayrollInterestLayoff"
+			],
+			[
+				"_apr_Appropriations",
+				"_apr_AppropriationsPeriod"
+			],
+			[
+				"_apr_Appr",
+				"_apr_AppropriationsKind"
+			],
+			[
+				"_Opening",
+				"_OpeningMonth"
+			],
+			[
+				"PyrInteres",
+				"PayrollInterestLayoff"
+			],
+			[
+				"_pyr_PayrollIbc",
+				"_pyr_PayrollIbcArlRemunerated"
+			],
+			[
+				"_agr_agre",
+				"_agr_AgreementPercentAfpNoRemunerated"
+			],
+			[
+				"_inmonth_PayrollIbcAfp",
+				"_inmonth_PayrollIbcAfpNoRemunerated"
+			],
+			[
+				"_agr_AGreement",
+				"_agr_AgreementPercentAfpNoRemunerated"
+			],
+			[
+				"_inmonth_PayrollEpsCom",
+				"_inmonth_PayrollEpsCompanyByArl"
+			],
+			[
+				"_agr_AGree",
+				"_agr_AgreementPercentEpsNoRemunerated"
+			],
+			[
+				"_agr_Agremee",
+				"_agr_AgreementPercentEpsNoRemunerated"
+			],
+			[
+				"_",
+				"_AgreementRoundEps"
+			],
+			[
+				"field",
+				"field_val"
+			],
+			[
+				"Eparam",
+				"EParamWithCoalesce"
+			],
+			[
+				"FromDb",
+				"FromDbNull"
+			],
+			[
+				"_apr_AppropriationsCAu",
+				"_apr_AppropriationsCausedEnd"
+			],
+			[
+				"_Payro",
+				"_PayrollYear"
+			],
+			[
+				"_apr_Approp",
+				"_apr_AppropriationsYear"
+			],
+			[
+				"vm_",
+				"vm_agreementmanagement"
+			],
+			[
+				"vm",
+				"vm_agreementmanagement"
+			],
+			[
+				"_pyr_Payro",
+				"_pyr_PayrollSubsidyTransportBase"
+			],
+			[
+				"_Agre",
+				"_AgreementSalaryHod"
+			],
+			[
+				"_Agrement",
+				"_AgreementSalaryDay"
+			],
+			[
+				"_inmonth_Payrol",
+				"_inmonth_PayrollSubsidyTransportDayQuantity"
+			],
+			[
+				"Vacaton",
+				"VacationTakenEnd"
+			],
+			[
+				"_Payr",
+				"_PayrollYear"
+			],
+			[
+				"_Payrol",
+				"_PayrollStart"
+			],
+			[
+				"table",
+				"table_payroll"
+			],
+			[
+				"_apr",
+				"_apr_AppropriationsYear"
+			],
+			[
+				"AgreementIs",
+				"AgreementIsCancel"
+			],
+			[
+				"fill",
+				"fillPersonIsEmployee"
+			],
+			[
+				"Deparament",
+				"Departament_Add"
+			],
+			[
+				"Emp",
+				"Employees"
+			],
+			[
+				"Em",
+				"Employees"
+			],
+			[
+				"ng-sw",
+				"ng-switch-default	AngularJS"
+			],
+			[
+				"ng-swit",
+				"ng-switch	AngularJS"
+			],
+			[
+				"view",
+				"viewdetailprestacional"
+			],
+			[
+				"viewde",
+				"viewdetailsecuritysocial"
+			],
+			[
+				"dw",
+				"drawVacation"
+			],
+			[
+				"fn",
+				"fnCall"
+			],
+			[
+				"fillP",
+				"fillPrestacional"
+			],
+			[
+				"draw",
+				"drawEps"
+			],
+			[
+				"_pld_AfpVo",
+				"_pld_PldAfpEmployeeVoluntary"
+			],
+			[
+				"fillPay",
+				"fillPayroll"
+			],
+			[
+				"vm_payr",
+				"vm_payrolldashboard"
+			],
+			[
+				"_Agreeent",
+				"_AgreementHistoryMonthStart"
+			],
+			[
+				"_AGreement",
+				"_AgreementHistoryMonthStart"
+			],
+			[
+				"BE",
+				"BETWEEN"
+			],
+			[
+				"PayrollMont",
+				"PayrollMonthStart"
+			],
+			[
+				"Payro",
+				"PayrollYear"
+			],
+			[
+				"_Agree",
+				"_AgreementHistoryYear"
+			],
+			[
+				"IC",
+				"ICBF"
+			],
+			[
+				"data",
+				"datatable"
+			],
+			[
+				"dra",
+				"drawChart"
+			],
+			[
+				"lst",
+				"lsteps"
+			],
+			[
+				"tabl",
+				"table_payroll"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Concet",
+				"ConceptCode"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"Http",
+				"HttpPost"
+			],
+			[
+				"_vcn_VacationPeriod",
+				"_vcn_VacationPeriodCausedEnd"
+			],
+			[
+				"_vcn_VcnPeriod",
+				"_vcn_VacationPeriodCausedEnd"
+			],
+			[
+				"concep",
+				"concepts"
+			],
+			[
+				"Concept",
+				"ConceptResourceService"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"has",
+				"hasaction"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"onCar",
+				"onCargarProximaAnual"
+			],
+			[
+				"id_",
+				"id_ProximaAnualDia"
+			],
+			[
+				"addC",
+				"addColumn"
+			],
+			[
+				"array",
+				"arraydata"
+			],
+			[
+				"m_",
+				"m_Item3"
+			],
+			[
+				"div_ren",
+				"div_resumeningresos"
+			],
+			[
+				"id_Period",
+				"id_PeriodoMes"
+			],
+			[
+				"Periodo",
+				"PeriodoMes"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"OnClick",
+				"OnClickVisitas"
+			],
+			[
+				"centro",
+				"centroServicioId"
+			],
+			[
+				"solici",
+				"solicitudId"
+			],
+			[
+				"Fuelg",
+				"FuelGasBiz"
+			],
+			[
+				"ColorB",
+				"ColorBoquillas"
+			],
+			[
+				"Fuel",
+				"FuelGasBiz"
+			],
+			[
+				"EnteCer",
+				"EnteCertificadorNombre"
+			],
+			[
+				"fiel",
+				"field_val"
+			],
+			[
+				"ente",
+				"enteCertificador"
+			],
+			[
+				"administra",
+				"administrator"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"Solicitud",
+				"SolicitudFecha"
+			],
+			[
+				"Solic",
+				"SolicitudConsecutivo"
+			],
+			[
+				"event",
+				"events"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"try",
+				"try"
+			],
+			[
+				"Compa",
+				"CompanyKey"
+			],
+			[
+				"_dtl",
+				"_dtlOld_DocumentDetailUi"
+			],
+			[
+				"ddlperiod",
+				"ddl_periodYear"
+			],
+			[
+				"Apro",
+				"Aprovisionamiento"
+			],
+			[
+				"Aprov",
+				"Aprovisionado"
+			],
+			[
+				"Cen",
+				"Cesantías"
+			],
+			[
+				"Int",
+				"Intereses"
+			],
+			[
+				"Aprovis",
+				"Aprovisionamiento"
+			],
+			[
+				"Ex",
+				"Extras"
+			],
+			[
+				"Export",
+				"ExportPayroll"
+			],
+			[
+				"_Document",
+				"_DocumentTypeCode"
+			],
+			[
+				"_WllPay",
+				"_WllPaymentDate"
+			],
+			[
+				"_acc_acc",
+				"_acc_AccountCode"
+			],
+			[
+				"WllPayme",
+				"WllPaymentDate"
+			],
+			[
+				"_Docu",
+				"_DocumentKey"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "indexdb/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "indexdb/config/database.yml",
+			"settings":
+			{
+				"buffer_size": 1647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "indexdb/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2686,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "conver",
+		"selected_items":
+		[
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"check s",
+				"Snippet: fa-check-square-o"
+			],
+			[
+				"squaer",
+				"Snippet: fa-square"
+			],
+			[
+				"squae",
+				"Snippet: fa-square"
+			],
+			[
+				"square",
+				"Snippet: fa-square-o"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"trim",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"tri",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"bad",
+				"Snippet: bs3-badge"
+			],
+			[
+				"place",
+				"Snippet: C#_MVC_PLACEHOLDER"
+			],
+			[
+				"UPLOAD",
+				"SFTP: Upload File"
+			],
+			[
+				"dle",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dock",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html pre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html pr\n",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"htmlfre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"trimmer",
+				"Trimmer: Normalize spaces."
+			],
+			[
+				"trimm",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"run",
+				"Run CSScomb"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"modul",
+				"Snippet: JS module pattern"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"pattern",
+				"Snippet: JS module pattern"
+			],
+			[
+				"javascript",
+				"Snippet: JAVASCRIPT_NEW_SCRIPTBUNDLE"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"resi",
+				"Snippet: MYSQL_HANDLER_ERROR_RESIGNAL"
+			],
+			[
+				"commen",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"plac",
+				"Snippet: C#_MVC_PLACEHOLDER"
+			],
+			[
+				"mv",
+				"Snippet: C#_MVC_PLACEHOLDER"
+			],
+			[
+				"mvc",
+				"Snippet: C#_MVC_PLACEHOLDER"
+			],
+			[
+				"coment",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"COM",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"COMMENT",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"COMMEN",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"come",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"REN",
+				"File: Rename"
+			],
+			[
+				"sqll",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"comemnt",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"singnal",
+				"Snippet: MYSQL_SIGNAL_ERROR"
+			],
+			[
+				"renq",
+				"FindKeyConflicts: (Direct) Conflicts to Quick Panel"
+			],
+			[
+				"resign",
+				"Snippet: MYSQL_HANDLER_ERROR_RESIGNAL"
+			],
+			[
+				"comem",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"BUNDLE",
+				"Snippet: JAVASCRIPT_NEW_SCRIPTBUNDLEWRAP_WRAP"
+			],
+			[
+				"BUNDL",
+				"Snippet: JAVASCRIPT_NEW_SCRIPTBUNDLEWRAP_WRAP"
+			],
+			[
+				"SCRIPT",
+				"Snippet: JAVASCRIPT_NEW_SCRIPTBUNDLE"
+			],
+			[
+				"NEWSCR",
+				"Snippet: JAVASCRIPT_NEW_SCRIPTBUNDLE"
+			],
+			[
+				"NEW",
+				"File: New View into File"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"check",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"uploa",
+				"SFTP: Upload File"
+			],
+			[
+				"module",
+				"Snippet: JS module pattern"
+			],
+			[
+				"modu",
+				"Snippet: JS revealing module pattern"
+			],
+			[
+				"construc",
+				"Snippet: JS constructor pattern"
+			],
+			[
+				"pla",
+				"Snippet: C#_MVC_PLACEHOLDER"
+			],
+			[
+				"moda",
+				"Snippet: bs3-modal"
+			],
+			[
+				"uplad",
+				"SFTP: Upload File"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"COME",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"SIGNAL",
+				"Snippet: MYSQL_SIGNAL_ERROR"
+			],
+			[
+				"fac",
+				"Snippet: C#_PATTERN_FACTORY"
+			],
+			[
+				"table",
+				"Snippet: bs3-table-responsive"
+			],
+			[
+				"mod",
+				"Snippet: bs3-modal"
+			],
+			[
+				"modal",
+				"Snippet: bs3-modal"
+			],
+			[
+				"MODU",
+				"Snippet: JS revealing module pattern"
+			],
+			[
+				"comme",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"facto",
+				"Snippet: C#_PATTERN_FACTORY"
+			],
+			[
+				"u",
+				"SFTP: Upload File"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"lodash find",
+				"Snippet: ES lodash/find"
+			],
+			[
+				"drop",
+				"Snippet: Bootstrap button dropdowns"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel"
+			],
+			[
+				"panel war",
+				"Snippet: bs3-panel-warning"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"lodash map",
+				"Snippet: ES lodash/map"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"time",
+				"Snippet: setTimeout"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"constru",
+				"Snippet: JS constructor pattern"
+			],
+			[
+				"ajax",
+				"Snippet: $.ajax()"
+			],
+			[
+				"constr	",
+				"Snippet: JS constructor pattern"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"strong",
+				"Snippet: <strong>"
+			],
+			[
+				"com",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"commet",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"commn",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"panle",
+				"Snippet: bs3-panel-primary"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"try",
+				"Snippet: JAVASCRIPT_TRY_CATCH_FINALLY"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"CONVET",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"commnet",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"Up",
+				"SFTP: Upload File"
+			],
+			[
+				"ident",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"DELE",
+				"File: Delete"
+			],
+			[
+				"COMNET",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"CONVERT",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"comnent",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"tfs",
+				"TFS: Checkin"
+			],
+			[
+				"tf",
+				"TFS: Checkin"
+			],
+			[
+				"t",
+				"TFS: Checkin"
+			],
+			[
+				"tsf",
+				"TFS: Add"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"factor",
+				"Snippet: C#_PATTERN_FACTORY"
+			],
+			[
+				"preferen",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/config"
+	],
+	"file_history":
+	[
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/test/fixtures/salaries.yml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Period/Index.cshtml",
+		"/C/Zuntek/MyDropBox/Dropbox/BACKUP_DATABASE/BAKCUP_APP_BD_HRM.bat",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Web.config",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/www_newquery.sql",
+		"/C/Zuntek/MyDownloads/employees_db-full-1.0.6.tar/employees_db-full-1.0.6/employees_db/employees.sql",
+		"/C/Zuntek/MyDownloads/employees_db-full-1.0.6.tar/employees_db-full-1.0.6/employees_db/load_departments.dump",
+		"/C/Zuntek/MyDownloads/employees_db-full-1.0.6.tar/employees_db-full-1.0.6/employees_db/load_salaries.dump",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/6-ACCOUNTINGPERIOD/Payroll_Accounting_Get.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/6-ACCOUNTINGPERIOD/Payroll_Accounting_Detail.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/1-UPGRADE/UPGRADE_1.0.11.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/4-PILA/Payroll_PilaDetail_Insert.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Areas/News/Views/Vacation/Create.cshtml",
+		"/C/Users/Administrator/Desktop/ubl_2_0.xsd",
+		"/C/Users/Administrator/Desktop/schema.xsd",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/tool/common/common.directive.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_SubsidyTransport.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/period/period.controller.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Payroll/Edit.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/payroll/payroll.controller.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/AAA-UPGRADE_KITANA/server.txt",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/App_Class/Identity.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/period/period.service.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/4-PILA/Pila_Update_Total.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_GetPeriod.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/includes.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Areas/Employee/Views/Agreement/Index.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Appropriations.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Payroll/Print.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/MySql/Payroll/Payroll.Custom.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Common/Menu.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic_ByRound_Eps.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic_ByRound_Pila.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic_ByRound_Afp.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Retroactive.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_GetAgreement.sql",
+		"/C/inetpub/wwwroot/a.sambahrm.com/Web.config",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/hrm.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/layout.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/hrm.config.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/payroll/payroll.service.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Areas/Report/Views/DashBoard/Pila.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Areas/Report/Views/DashBoard/Payroll.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/MySql/Payroll/PayrollRepository.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/App_GlobalResources/es-CO/Label.txt",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/sftp-config.json",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/AAA-UPGRADE_PRODUCTION_OJOOOOO!!!/server.txt",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/pila/pila.service.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/dashboard/dashboard.service.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/pila/pila.controller.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/money/money.service.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Shared/_Layout.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Areas/News/Views/Appropriations/Index.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Entity/Index.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Payroll/Index.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Pila/Index.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Site.Master",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Areas/Employee/Views/Agreement/Save.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic_Prestacional.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_InMonth_LessPeriod.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic_InterestLayoff.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Initialize_HodQuantity.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Permission.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_License_Base.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/6-ACCOUNTINGPERIOD/Payroll_Accounting_Preview.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_ReteFuenteValue.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/.bowerrc",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Common/HeaderLayout.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/bower_components/angular-odata-resources/package.json",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/bower_components/angular-odata-resources/.bower.json",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/app/report/report.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Scripts/_references.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/dashboard/dashboard.controller.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/css/layout.css",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/NormalizeFile.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CSScomb/csscomb.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/NormalizeFile/Default (Windows).sublime-keymap",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/tool/common/common.filter.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/2-FUNCTION_PROCEDURES/Fn_Payroll_RoundBySmmlv.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/App_Class/HrmSetting/AppMediaFormatter/MediaFormatterCustom.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Update_Period.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/MySql/Period/Period.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/MySql/Period/PeriodFactory.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/MySql/Payroll/Payroll.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/MySql/Payroll/PayrollFactory.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Sum_InMonth.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/4-PILA/PilaDetail_Save.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_InYear_LessPeriod.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_Month_LessPeriod.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_InYear_LessMonth.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Money.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Advance.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic_ByRound.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_Before_Month.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Vacation.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Generate_Add_EndAgreement.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_Before_Year.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_Before.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_School.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Entity/Save.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Period_Reset.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Common/HeaderPrint.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/2-FUNCTION_PROCEDURES/Fn_Payroll_Generate_Number.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/json/master/securityaccount.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MyBuilds/__KITANA_SAMBAHR__.sublime-build",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_ReteFuente_MoneyDiscount.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Rete_Layoff.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/2-FUNCTION_PROCEDURES/Fn_ConstantNews_GetByKindByDate.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/2-FUNCTION_PROCEDURES/Fn_Opening_Get_ByYearByMonthByKind.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/2-FUNCTION_PROCEDURES/Loghr_Add.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/AAA-UPGRADE_KITANA/UPGRADE_ALL.bat",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/AAA-UPGRADE_KITANA/0-UPDATE_DATABASE.bat",
+		"/C/Users/Administrator/Desktop/para_eliminar_gamma",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Fn_Ibc_InMonth.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/2-FUNCTION_PROCEDURES/Payroll_Fn_Opening_Appropriations.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic_Pila.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Views/Person/Save.cshtml",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Basic.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/MySql/Period/PeriodRepository.cs",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/license/license.controller.js",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_ReteFuente_PercentFixed.sql",
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/AAA-UPGRADE_KITANA/2-FUNCTION_PROCEDURES.bat"
+	],
+	"find":
+	{
+		"height": 76.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"*.cshtml",
+			"<open folders>\n",
+			"<open folders>",
+			"",
+			"<open folders>",
+			"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\MyBusiness\\____SCRIPT___",
+			"<open folders>",
+			"<open folders>,<open files>",
+			"<open folders>",
+			"<open files>",
+			"<open folders>",
+			"<open folders>,C:\\Users\\Administrador\\AppData\\Roaming\\Sublime Text 3",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"indexdb",
+			"indexdb_development",
+			"hostname",
+			"mysql",
+			"Nomina",
+			"Contabilización",
+			"Bloquear",
+			"Nómina",
+			"Generación",
+			"lock",
+			"' ",
+			"Bloquear",
+			"Generación",
+			"PayrollIsBlockGenerate",
+			"PayrollIsBlockAccounting",
+			"ZunVex425",
+			"PayrollIsBlockGenerate",
+			"class",
+			"style",
+			"FSSRNADL",
+			"EPS",
+			"FSPRNADL",
+			"AFPRNADL",
+			"EPSRNADL",
+			"DB",
+			"ADM",
+			"237005",
+			"DB",
+			"','",
+			"TDS",
+			"EPSRNADU",
+			"510569",
+			"FSPRNADU",
+			"AFPRNADU",
+			"EPSRNADU",
+			"SAL",
+			"510569",
+			"AreaCode",
+			"accountingsetting",
+			"PyrKey",
+			"agh_before",
+			"\n\n\n\n\n",
+			"\n\n\n\n",
+			"Página",
+			"Anexo Técnico 001",
+			"Resolución 000019 de febrero 24 de 2016",
+			"Anexo Técnico 001 Formatos de los Documentos XML de Facturación Electrónica",
+			"- ",
+			"ngValidateGreaterthan",
+			"ngValidateGreaterthanorequal",
+			"ngValidateGreaterthan",
+			"greaterthanorequal",
+			"ngValidateGreaterthanorequal",
+			"ngValidateGreaterthan",
+			"ngValidateGreaterthanorequal",
+			"ngValidateGreaterthan",
+			"ngValidateGreaterthanorequal",
+			"ngValidateGreaterthan",
+			"ngValidateGreaterthanorequal",
+			"ngValidateGreaterthanOrEqual",
+			"greaterthan",
+			"_AgreementSalaryKind",
+			"AND",
+			"_AgreementSalaryKind",
+			"table_payroll.selected",
+			"selected",
+			"table_payroll",
+			"fillPeriod",
+			"_SettingSmmlv",
+			"2100",
+			"number",
+			"Id_PayrollSubsidyTransportDayQuantity",
+			"Id_PayrollSubsidyTransportBase",
+			"PayrollSubsidyTransportDayQuantity",
+			"number",
+			"subsidiotransporte",
+			"Días",
+			"label",
+			"18",
+			"text",
+			"currency",
+			"payroll.PayrollSalary",
+			"payrollsalary",
+			"getByPeriod",
+			"payrollfspem",
+			"PeriodFspSubsistenceRemunerated",
+			"PeriodFspNoRemunerated",
+			"period",
+			"PeriodFspRemunerated",
+			"PeriodAfpNoRemuneratedPila",
+			"period",
+			"PeriodEpsRemuneratedPila",
+			"vm_period",
+			"_PeriodPilaValue",
+			"afp",
+			"PayrollFspSubsistenceEmployee",
+			"PayrollFspSubsistenceRemunerated",
+			"PayrollFspRemunerated",
+			"PayrollFspEmployee",
+			"PayrollFspRemunerated",
+			"PayrollFsp",
+			"PayrollFspNoRemuneratedEmployee",
+			"PayrollFspEmployee",
+			"payroll",
+			"PayrollFspEmployee",
+			"PayrollFspRemunerated",
+			"_apr_AppropriationsAdjustment",
+			"_CompanyKey",
+			"data-target",
+			"\">",
+			"<i class=\"fa fa-check-square-o\"></i>",
+			"kitana",
+			"server",
+			"sambaerp",
+			"_pyr_PayrollIbcQuasiRemunerated",
+			"_monthlessprd_PayrollIbcQuasiNoRemunerated",
+			"_pyr_PayrollFspSubsistenceNoRemuneratedEmployee",
+			"INOUT",
+			"Eps",
+			": =",
+			"_AgreementSalaryKind = 'SS'",
+			"_agr_AgreementPercentEpsCompany",
+			"_pyr_PayrollIncapacityByArl",
+			"INOUT",
+			"_agr_AgreementPercentEpsCompany",
+			"_agr_AgreementPercentEpsEmployee",
+			"_agr_AgreementPercentEpsNoRemunerated",
+			"_agr_AgreementPercentEpsEmployee"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"@Resources.Label.Action",
+			"_PayrollIsSalary",
+			"PeriodEpsNoRemuneratedPila",
+			"PeriodEpsRemuneratedPila",
+			"PeriodAfpNoRemuneratedPila",
+			"PeriodAfpRemuneratedPila",
+			"PayrollEpsNoRemuneratedPila",
+			"PayrollEpsRemuneratedPila",
+			"PayrollAfpNoRemuneratedPila",
+			"PayrollAfpRemuneratedPila",
+			"Payroll_Calculate_Get_InMonth_LessPeriod",
+			"Payroll_Calculate_Get_InYear_LessPeriod",
+			"_yearlessprd",
+			"$_inmonthlessperiod_",
+			"$_inmonthlessperiod",
+			"$_inyearlessmonth_",
+			"PayrollIbcEpsCompanyCXP",
+			"PayrollIbcEpsCompanyCXPHodQuantity",
+			"PeriodIbcAfpCompanyCXPHod",
+			"PeriodIbcAfpCompanyCXP",
+			"PayrollIbcAfpCompanyCXP",
+			"PeriodIbcAfpCompanyCXPHodQuantity",
+			"PayrollIbcAfpCompanyCXPHodQuantity",
+			"_inmonth_PayrollFspSubsistenceNoRemuneratedEmployee",
+			"_inmonth_PayrollFspNoRemuneratedEmployee",
+			"_inyear_PayrollFspNoRemuneratedEmployee",
+			"_inyear_PayrollFspSubsistenceeNoRemuneratedEmploye",
+			"_pyr_PayrollFspSubsistenceNoRemuneratedEmployee",
+			"_pyr_PayrollFspNoRemuneratedEmployee",
+			"$_mny_",
+			"rete_InterestLayoffPayment",
+			"_rete_LayoffPayment",
+			"PayrollIbcEpsCompanyCXP",
+			"_pyr_PayrollFspSubsistenceEmployee",
+			"_pyr_PayrollFspEmployee",
+			"",
+			"PayrollAfpCompany",
+			"PayrollFspSubsistence",
+			"PayrollFsp",
+			"ScriptBundle",
+			"ScriptBundel",
+			"PayrollFspSubsistenceNoRemunerated",
+			"huge-3x",
+			"_.includes",
+			"HRAccCode",
+			"_PersonIdFull",
+			"PersonName",
+			"                    case 11:\n                        name = \"RC\";\n                        break;\n\n                    case 12:\n                        name = \"TI\";\n                        break;\n\n                    case 13:\n                        name = \"CC\";\n                        break;\n\n                    case 21:\n                        name = \"TE\";\n                        break;\n\n                    case 22:\n                        name = \"CE\";\n                        break;\n\n                    case 31:\n                        name = \"NIT\";\n                        break;\n\n                    case 41:\n                        name = \"PP\";\n                        break;",
+			"PersonUI",
+			"PersonSecondName",
+			"PersonSecondSurname",
+			"PersonFirstSurname",
+			"PersonName",
+			"PersonId",
+			"IdTypeKey",
+			"PersonKey",
+			"PersonSecondSurName",
+			"PersonFirstSurName",
+			"PersonUI",
+			"PersonId",
+			"IdTypeKey",
+			"PersonSecondName",
+			"PersonFirstName",
+			"PersonSecondSurname",
+			"PersonFirstSurname",
+			"PersonName",
+			"PersonKey",
+			"PersonSecondName",
+			"PersonFirstName",
+			"PersonSecondSurname",
+			"PersonFirstSurname",
+			"personName",
+			"PersonName",
+			"personId",
+			"PersonId",
+			"idTypeKey",
+			"IdTypeKey",
+			"personUI",
+			"PersonUI",
+			"personKey",
+			"PersonKey",
+			"personId",
+			"PersonId",
+			"personUI",
+			"PersonUI",
+			"personUI",
+			"personKey",
+			"PersonKey",
+			"PersonKey\npersonName",
+			"PersonId\npersonName",
+			"PersonId\nPersonName",
+			"PersonId\nidTypeKey",
+			"PersonId\nIdTypeKey",
+			"PersonId\npersonId",
+			"PersonId",
+			"personUI",
+			"PersonUI",
+			"personKey",
+			"PersonKey",
+			"idxPersonId",
+			"\"class\": \"text-center\",",
+			"open(\"/WebForm/AppReport",
+			"href=\"/WebForm/App",
+			"href=\"/WebForm/AppEmployees",
+			"data-ui",
+			"ID=\"rfv_req$1",
+			"ID=\"rfv_req_$1",
+			"data-fill-value=\"PersonIdKind\"",
+			"data-fill-value=\"PersonId\"",
+			"data-fill-value=\"PersonName\"",
+			"data-fill-value=\"PersonKey\"",
+			"data-fill=\"agreementisworking\" data-ui=\"searchable\"",
+			"#00C800",
+			"#008080",
+			"#FF0000",
+			"fa-frown-o",
+			"fa-exclamation-triangle",
+			"fa-smile-o",
+			"PayrollBaseInterestLayoff",
+			"data-fill=\"person\"",
+			"data-fill=\"agreementisworking\"",
+			"AgreementIsWorkingGet",
+			"return InternalServerError(ex);",
+			"[HttpDelete]",
+			"[HttpGet]",
+			"[HttpPost]",
+			"OnClickAgreementRetirePrint"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "indexdb/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "indexdb/config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 241.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "indexdb/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1889,
+								1889
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 210.0
+	},
+	"pinned_build_system": "Packages/User/MyBuilds/__SAMBAHRM__.sublime-build",
+	"project": "RUBY_index_db.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"indexdb\\config\\routes.rb"
+			],
+			[
+				"salari",
+				"indexdb\\test\\fixtures\\salaries.yml"
+			],
+			[
+				"web.con",
+				"_AppWeb\\Web.config"
+			],
+			[
+				"newq",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\www_newquery.sql"
+			],
+			[
+				"index.csh",
+				"_AppWeb\\Views\\Period\\Index.cshtml"
+			],
+			[
+				"new",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\www_newquery.sql"
+			],
+			[
+				"neq",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\www_newquery.sql"
+			],
+			[
+				"acccounting_detai",
+				"MyBiz\\__MYSQL_SCRIPT__\\6-ACCOUNTINGPERIOD\\Payroll_Accounting_Detail.sql"
+			],
+			[
+				"upgrade",
+				"MyBiz\\__MYSQL_SCRIPT__\\1-UPGRADE\\UPGRADE_1.0.11.sql"
+			],
+			[
+				"payroll_accounting_get",
+				"MyBiz\\__MYSQL_SCRIPT__\\6-ACCOUNTINGPERIOD\\Payroll_Accounting_Get.sql"
+			],
+			[
+				"pilainser",
+				"MyBiz\\__MYSQL_SCRIPT__\\4-PILA\\Payroll_PilaDetail_Insert.sql"
+			],
+			[
+				"direc",
+				"_AppWeb\\static\\js\\angular\\tool\\common\\common.directive.js"
+			],
+			[
+				"create.csh",
+				"_AppWeb\\Areas\\News\\Views\\Vacation\\Create.cshtml"
+			],
+			[
+				"period.con",
+				"_AppWeb\\static\\js\\angular\\period\\period.controller.js"
+			],
+			[
+				"payroll.contr",
+				"_AppWeb\\static\\js\\angular\\payroll\\payroll.controller.js"
+			],
+			[
+				"payroll_calc",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"payroll_calculate_subs",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_SubsidyTransport.sql"
+			],
+			[
+				"edit.csh",
+				"_AppWeb\\Views\\Payroll\\Edit.cshtml"
+			],
+			[
+				"nequer",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\www_newquery.sql"
+			],
+			[
+				"getperiod",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_GetPeriod.sql"
+			],
+			[
+				"updatetotal",
+				"MyBiz\\__MYSQL_SCRIPT__\\4-PILA\\Pila_Update_Total.sql"
+			],
+			[
+				"period.service",
+				"_AppWeb\\static\\js\\angular\\period\\period.service.js"
+			],
+			[
+				"period.contr",
+				"_AppWeb\\static\\js\\angular\\period\\period.controller.js"
+			],
+			[
+				"ident",
+				"_AppWeb\\App_Class\\Identity.cs"
+			],
+			[
+				"accounting_detail",
+				"MyBiz\\__MYSQL_SCRIPT__\\6-ACCOUNTINGPERIOD\\Payroll_Accounting_Detail.sql"
+			],
+			[
+				"update_total",
+				"MyBiz\\__MYSQL_SCRIPT__\\4-PILA\\Pila_Update_Total.sql"
+			],
+			[
+				"includ",
+				"_AppWeb\\static\\js\\includes.js"
+			],
+			[
+				"index.cshtm",
+				"_AppWeb\\Views\\Period\\Index.cshtml"
+			],
+			[
+				"payroll.cont",
+				"_AppWeb\\static\\js\\angular\\payroll\\payroll.controller.js"
+			],
+			[
+				"period.cont",
+				"_AppWeb\\static\\js\\angular\\period\\period.controller.js"
+			],
+			[
+				"payroll.custom",
+				"MyBiz\\MySql\\Payroll\\Payroll.Custom.cs"
+			],
+			[
+				"print.cshtm",
+				"_AppWeb\\Views\\Payroll\\Print.cshtml"
+			],
+			[
+				"include",
+				"_AppWeb\\static\\js\\includes.js"
+			],
+			[
+				"payroll_calculate_appropriations",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Appropriations.sql"
+			],
+			[
+				"web.conf",
+				"_AppWeb\\Web.config"
+			],
+			[
+				"menu.csh",
+				"_AppWeb\\Views\\Common\\Menu.cshtml"
+			],
+			[
+				"calculate_r",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"round_pila",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Pila.sql"
+			],
+			[
+				"roundafp",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
+			],
+			[
+				"payroll_calculate_basic_byround_eps",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"payroll_calculate_retroactive",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Retroactive.sql"
+			],
+			[
+				"payroll_calculate_getagre",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_GetAgreement.sql"
+			],
+			[
+				"newquer",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\www_newquery.sql"
+			],
+			[
+				"hrm.conf",
+				"_AppWeb\\static\\js\\angular\\hrm.config.js"
+			],
+			[
+				"layout.js",
+				"_AppWeb\\static\\js\\layout.js"
+			],
+			[
+				"period.serv",
+				"_AppWeb\\static\\js\\angular\\period\\period.service.js"
+			],
+			[
+				"payroll.service",
+				"_AppWeb\\static\\js\\angular\\payroll\\payroll.service.js"
+			],
+			[
+				"payroll",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"index.cshtml",
+				"_AppWeb\\Views\\Period\\Index.cshtml"
+			],
+			[
+				"hrm.js",
+				"_AppWeb\\static\\js\\angular\\hrm.js"
+			],
+			[
+				"payroll_calculate_roundep",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"payroll.csh",
+				"_AppWeb\\Areas\\Report\\Views\\DashBoard\\Payroll.cshtml"
+			],
+			[
+				"pila.csh",
+				"_AppWeb\\Areas\\Report\\Views\\DashBoard\\Pila.cshtml"
+			],
+			[
+				"label",
+				"_AppWeb\\App_GlobalResources\\es-CO\\Label.txt"
+			],
+			[
+				"payrollrep",
+				"MyBiz\\MySql\\Payroll\\PayrollRepository.cs"
+			],
+			[
+				"upgra",
+				"MyBiz\\__MYSQL_SCRIPT__\\1-UPGRADE\\UPGRADE_1.0.11.sql"
+			],
+			[
+				"period.js",
+				"_AppWeb\\static\\js\\angular\\period\\period.controller.js"
+			],
+			[
+				"accounting_dtea",
+				"MyBiz\\__MYSQL_SCRIPT__\\6-ACCOUNTINGPERIOD\\Payroll_Accounting_Detail.sql"
+			],
+			[
+				"dashboard.serv",
+				"_AppWeb\\static\\js\\angular\\dashboard\\dashboard.service.js"
+			],
+			[
+				"pila.contr",
+				"_AppWeb\\static\\js\\angular\\pila\\pila.controller.js"
+			],
+			[
+				"pila.service",
+				"_AppWeb\\static\\js\\angular\\pila\\pila.service.js"
+			],
+			[
+				"sitemaster",
+				"_AppWeb\\Site.Master"
+			],
+			[
+				"layout.csh",
+				"_AppWeb\\Views\\Shared\\_Layout.cshtml"
+			],
+			[
+				"lab",
+				"_AppWeb\\App_GlobalResources\\es-CO\\Label.txt"
+			],
+			[
+				"save",
+				"_AppWeb\\Areas\\Employee\\Views\\Agreement\\Save.cshtml"
+			],
+			[
+				"payroll_calculate_prestacion",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_Prestacional.sql"
+			],
+			[
+				"payroll_calculate_interes",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_InterestLayoff.sql"
+			],
+			[
+				"calculate_appr",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Appropriations.sql"
+			],
+			[
+				"payroll_calculate_permission",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Permission.sql"
+			],
+			[
+				"hodin",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Initialize_HodQuantity.sql"
+			],
+			[
+				"payroll_calculate_license_base",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_License_Base.sql"
+			],
+			[
+				"round_eps",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"payroll_ca",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"round_afp",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
+			],
+			[
+				"payroll_cal",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"round_ep",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"hodquan",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Initialize_HodQuantity.sql"
+			],
+			[
+				"hodquay",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Initialize_HodQuantity.sql"
+			],
+			[
+				"preview",
+				"MyBiz\\__MYSQL_SCRIPT__\\6-ACCOUNTINGPERIOD\\Payroll_Accounting_Preview.sql"
+			],
+			[
+				"pila.cont",
+				"_AppWeb\\static\\js\\angular\\pila\\pila.controller.js"
+			],
+			[
+				"payroll_calculate_afp",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
+			],
+			[
+				"calculate_round_eps",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"payrollrepo",
+				"MyBiz\\MySql\\Payroll\\PayrollRepository.cs"
+			],
+			[
+				"header",
+				"_AppWeb\\Views\\Common\\HeaderLayout.cshtml"
+			],
+			[
+				"moneyservice",
+				"_AppWeb\\static\\js\\angular\\money\\money.service.js"
+			],
+			[
+				"money.service",
+				"_AppWeb\\static\\js\\angular\\money\\money.service.js"
+			],
+			[
+				"dashboard.con",
+				"_AppWeb\\static\\js\\angular\\dashboard\\dashboard.controller.js"
+			],
+			[
+				"layout",
+				"_AppWeb\\static\\css\\layout.css"
+			],
+			[
+				"common.fi",
+				"_AppWeb\\static\\js\\angular\\tool\\common\\common.filter.js"
+			],
+			[
+				"payroll_calculate",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"payroll_calculate_get_inmonth_lessperiod",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InMonth_LessPeriod.sql"
+			],
+			[
+				"payroll_calculate_retefuentevalue",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_ReteFuenteValue.sql"
+			],
+			[
+				"prestai",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_Prestacional.sql"
+			],
+			[
+				"payroll_calculate_basic_byround_afp",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
+			],
+			[
+				"less",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InMonth_LessPeriod.sql"
+			],
+			[
+				"payrollcalcu",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"calculate_pre",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_Prestacional.sql"
+			],
+			[
+				"calculate_appro",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Appropriations.sql"
+			],
+			[
+				"nequery",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\www_newquery.sql"
+			],
+			[
+				"up",
+				"MyBiz\\__MYSQL_SCRIPT__\\1-UPGRADE\\UPGRADE_1.0.11.sql"
+			],
+			[
+				"label.",
+				"_AppWeb\\App_GlobalResources\\es-CO\\Label.txt"
+			],
+			[
+				"edic.cs",
+				"_AppWeb\\App_Class\\HrmSetting\\AppMediaFormatter\\MediaFormatterCustom.cs"
+			],
+			[
+				"fn_payroll_roundbysmmlv",
+				"MyBiz\\__MYSQL_SCRIPT__\\2-FUNCTION_PROCEDURES\\Fn_Payroll_RoundBySmmlv.sql"
+			],
+			[
+				"payroll_cac",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"round_af",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
+			],
+			[
+				"pila_inser",
+				"MyBiz\\__MYSQL_SCRIPT__\\4-PILA\\Payroll_PilaDetail_Insert.sql"
+			],
+			[
+				"monthless",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InMonth_LessPeriod.sql"
+			],
+			[
+				"calculate_round_afp",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
+			],
+			[
+				"payroll.",
+				"MyBiz\\MySql\\Payroll\\Payroll.cs"
+			],
+			[
+				"payrollfac",
+				"MyBiz\\MySql\\Payroll\\PayrollFactory.cs"
+			],
+			[
+				"pila_save",
+				"MyBiz\\__MYSQL_SCRIPT__\\4-PILA\\PilaDetail_Save.sql"
+			],
+			[
+				"hrm.con",
+				"_AppWeb\\static\\js\\angular\\hrm.config.js"
+			],
+			[
+				"roundpila",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Pila.sql"
+			],
+			[
+				"roundep",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"payroll_calculate_get_inyear_lessperiod",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InYear_LessPeriod.sql"
+			],
+			[
+				"lessperiod",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InMonth_LessPeriod.sql"
+			],
+			[
+				"payroll_calculate_roundaf",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
+			],
+			[
+				"payroll_calcu",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
+			],
+			[
+				"paryoll_roundeps",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"lessp",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_Month_LessPeriod.sql"
+			],
+			[
+				"payroll_calculate_get_month_lessperiod",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_Month_LessPeriod.sql"
+			],
+			[
+				"calculate_eps",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
+			],
+			[
+				"lessmonth",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InYear_LessMonth.sql"
+			],
+			[
+				"pirnt.chs",
+				"_AppWeb\\Views\\Payroll\\Print.cshtml"
+			],
+			[
+				"caculate_app",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Appropriations.sql"
+			],
+			[
+				"yearless",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InYear_LessMonth.sql"
+			],
+			[
+				"prestacion",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_Prestacional.sql"
+			],
+			[
+				"payroll_calculate_money",
+				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Money.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "smaba",
+		"selected_items":
+		[
+			[
+				"smaba",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.11\\sambahr.1.0.11.sublime-project"
+			],
+			[
+				"samba",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.11\\sambahr.1.0.11.sublime-project"
+			],
+			[
+				"",
+				"C:\\NUBIXAR\\MyProjects\\opensource_language\\test\\ruby\\indexdb\\ruby_indexdb.sublime-workspace"
+			],
+			[
+				"invoice",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-invoice\\app-invoice-0.0.1.sublime-project"
+			],
+			[
+				"appin",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-invoice\\app-invoice-0.0.1.sublime-project"
+			],
+			[
+				"appinvoice",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-invoice\\app-invoice-0.0.1.sublime-project"
+			],
+			[
+				"sambah",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.10\\sambahr.1.0.10.sublime-project"
+			],
+			[
+				"smabah",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.10\\sambahr.1.0.10.sublime-project"
+			],
+			[
+				"smab",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.10\\sambahr.1.0.10.sublime-project"
+			],
+			[
+				"saba",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.10\\sambahr.1.0.10.sublime-project"
+			],
+			[
+				"sma",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.11\\sambahr.1.0.11.sublime-project"
+			],
+			[
+				"smabha",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.10\\sambahr.1.0.10.sublime-project"
+			],
+			[
+				"sambha",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-samba-hrm\\1.0.10\\sambahr.1.0.10.sublime-project"
+			],
+			[
+				"gasn",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-gasnet\\1.0.0.1\\gasnet.1.0.0.1.sublime-project"
+			],
+			[
+				"gams",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-gasnet\\1.0.0.1\\gasnet.1.0.0.1.sublime-project"
+			],
+			[
+				"gas",
+				"C:\\NUBIXAR\\MyProjects\\nubixar.visualstudio.com\\app-gasnet\\1.0.0.1\\gasnet.1.0.0.1.sublime-project"
+			],
+			[
+				"fuel",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\FuelGas\\1.0.0.1\\gasnet.1.0.0.1.sublime-project"
+			],
+			[
+				"sambahr",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.9\\sambahr.1.0.9.sublime-project"
+			],
+			[
+				"sambaerp",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\sambaerp.visualstudio.com\\sambaerp\\1.0.7.1\\sambaerp.1.0.7.1.sublime-project"
+			],
+			[
+				"liceo",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\LiceosEjercito\\1.0.0.1\\liceosejercito.1.0.0.1.sublime-project"
+			],
+			[
+				"lice",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\LiceosEjercito\\1.0.0.1\\liceosejercito.1.0.0.1.sublime-project"
+			],
+			[
+				"fue",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\FuelGas\\1.0.0.0\\FuelGas.1.0.0.0.sublime-project"
+			],
+			[
+				"mabah",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.8\\SambaHR.1.0.8.sublime-project"
+			],
+			[
+				"samberp",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\sambaerp.visualstudio.com\\sambaerp\\1.0.6\\sambaerp.1.0.6.sublime-project"
+			],
+			[
+				"smbaherp",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.8\\SambaHR.1.0.8.sublime-project"
+			],
+			[
+				"sabmaer",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaERP\\PCGA\\1.0.0.1\\SambaErp.1.0.1.sublime-project"
+			],
+			[
+				"smba",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.8\\SambaHR.1.0.8.sublime-project"
+			],
+			[
+				"lcie",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\LiceosEjercito\\1.0.0.1\\Liceos.1.0.0.1.sublime-project"
+			],
+			[
+				"sam",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.6\\SambaHR.1.0.6.sublime-project"
+			],
+			[
+				"sa",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.6\\SambaHR.1.0.6.sublime-project"
+			],
+			[
+				"amba",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.6\\SambaHR.1.0.6.sublime-project"
+			],
+			[
+				"lcieio",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\LiceosEjercito\\1.0.0.1\\Liceos.1.0.0.1.sublime-project"
+			],
+			[
+				"samb",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.6\\SambaHR.1.0.6.sublime-project"
+			],
+			[
+				"sabam",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.6\\SambaHR.1.0.6.sublime-project"
+			],
+			[
+				"SAM",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.6\\SambaHR.1.0.6.sublime-project"
+			],
+			[
+				"SMABAH",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.6\\SambaHR.1.0.6.sublime-project"
+			],
+			[
+				"fu",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\FuelGas\\1.0.0.0\\FuelGas.1.0.0.0.SublimeText.sublime-project"
+			],
+			[
+				"FUE",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\FuelGas\\1.0.0.0\\FuelGas.1.0.0.0.SublimeText.sublime-project"
+			],
+			[
+				"visual",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\VISUAL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"vusu",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\VISUAL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"MYSQL",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"mysql",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"visu",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\VISUAL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"visus",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\VISUAL_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"fuer",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\FuelGas\\1.0.0.0\\VISUAL_FUELGAS_1.0.0.0.sublime-project"
+			],
+			[
+				"mysq",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"visua",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\VISUAL_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"sambahar",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\VISUAL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"fuel	",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\FuelGas\\1.0.0.0\\VISUAL_FUELGAS_1.0.0.0.sublime-project"
+			],
+			[
+				"yq",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"msyql",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"visla",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\VISUAL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"visusa",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\VISUAL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"liceos",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\VISUAL_liceos_1.00.sublime-project"
+			],
+			[
+				"LICEO",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\VISUAL_liceos_1.00.sublime-project"
+			],
+			[
+				"myql",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"vis",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\VISUAL_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"vissual",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\VISUAL_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"msq",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"visau",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\VISUAL_liceos_1.00.sublime-project"
+			],
+			[
+				"ysql",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"myhsql",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"mysaq",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"msyqol",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"myhsq",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"1.0.0",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\VISUAL_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"uplo",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\VISUAL_liceos_1.00.sublime-project"
+			],
+			[
+				"1.0.1",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\VISUAL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"mysql 1.0.1",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"10.1",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.1\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.1.sublime-project"
+			],
+			[
+				"1",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\VISUAL_liceos_1.00.sublime-project"
+			],
+			[
+				"myusq",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"mycel",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\VISUAL_liceos_1.00.sublime-project"
+			],
+			[
+				"my",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\MyBiz\\__MYSQL_SCRIPT__\\MYSQL_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"licel",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\VISUAL_liceos_1.00.sublime-project"
+			],
+			[
+				"lico",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\Liceos\\1.0.0.0\\visual_liceos_1.00.sublime-project"
+			],
+			[
+				"vsiaul",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\visual_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"mysl",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr\\1.0.0\\MyBiz\\__MYSQL_SCRIPT__\\mysql_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"10.",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr\\1.0.0\\MyBiz\\__MYSQL_SCRIPT__\\mysql_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"1.0",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr\\1.0.0\\visual_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"10.0",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr\\1.0.0\\MyBiz\\__MYSQL_SCRIPT__\\mysql_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"0.0",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr\\0.0.5\\MyBiz\\__MYSQL_SCRIPT__\\mysql_sambahr_0.0.5.sublime-project"
+			],
+			[
+				"101",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\visual_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"1.",
+				"C:\\Zuntek\\MyDocuments\\ZUNTEK\\MyProyects\\SambaHr\\1.0.0\\MyBiz\\__MYSQL_SCRIPT__\\mysql_sambahr_1.0.0.sublime-project"
+			],
+			[
+				"du",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"dubug",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"DEUB",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"deub",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"deug",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"reare",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyDatabases\\MySql\\Scripts\\zpeople_release\\mysql_sambahr_release.sublime-project"
+			],
+			[
+				"debug",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyDatabases\\MySql\\Scripts\\zpeople_debug\\mysql_sambahr_debug.sublime-project"
+			],
+			[
+				"REARE",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_release\\mysql_sambahr_release.sublime-project"
+			],
+			[
+				"AREARE",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_release\\mysql_sambahr_release.sublime-project"
+			],
+			[
+				"debu",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"deb",
+				"F:\\MyAeroFs\\Server\\AeroFS Team Server Storage\\users\\agosys@hotmail.com\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"deugb",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"dub",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_debug\\mysql_sambahr_debug.sublime-project"
+			],
+			[
+				"deubv",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"ub",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Release\\visual_sambahr_release.sublime-project"
+			],
+			[
+				"debui",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"eub",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"deu",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"due",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"deb ug",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"debud",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"rearel",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_release\\mysql_sambahr_release.sublime-project"
+			],
+			[
+				"areare",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Release\\visual_sambahr_release.sublime-project"
+			],
+			[
+				"rarea",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_release\\mysql_sambahr_release.sublime-project"
+			],
+			[
+				"DE",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyProyects\\SambaHr_Debug\\1.0.0\\visual_sambahr_debug.sublime-project"
+			],
+			[
+				"RAERE",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_release\\mysql_sambahr_release.sublime-project"
+			],
+			[
+				"de",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_debug\\mysql_sambahr_debug.sublime-project"
+			],
+			[
+				"release",
+				"C:\\Zuntek\\MyDocuments\\AeroFS\\MyDatabases\\MySql\\Scripts\\zpeople_release\\mysql_sambahr_release.sublime-project"
+			],
+			[
+				"rearea",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_release\\SambaHr_Script_Release.sublime-project"
+			],
+			[
+				"reasre",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_release\\SambaHr_Script_Release.sublime-project"
+			],
+			[
+				"rare",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_release\\SambaHr_Script_Release.sublime-project"
+			],
+			[
+				"rele",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Release\\Sambahrm_Release.sublime-project"
+			],
+			[
+				"dde",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Debug\\1.0.0\\SambaHr_Debug.sublime-project"
+			],
+			[
+				"ddu",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Debug\\1.0.0\\SambaHr_Debug.sublime-project"
+			],
+			[
+				"DEU",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Debug\\1.0.0\\SambaHr_Debug.sublime-project"
+			],
+			[
+				"DEUG",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Debug\\1.0.0\\SambaHr_Debug.sublime-project"
+			],
+			[
+				"realre",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_release\\SambaHr_Script_Release.sublime-project"
+			],
+			[
+				"raer",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_release\\SambaHr_Script_Release.sublime-project"
+			],
+			[
+				"degub",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_debug\\SambaHr_Script_Debug.sublime-project"
+			],
+			[
+				"rear",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Release\\Sambahrm_Release.sublime-project"
+			],
+			[
+				"realrea",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_release\\SambaHr_Script_Release.sublime-project"
+			],
+			[
+				"reale",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Release\\Sambahrm_Release.sublime-project"
+			],
+			[
+				"realeee",
+				"C:\\Zuntek\\MyProyects\\SambaHr_Release\\Sambahrm_Release.sublime-project"
+			],
+			[
+				"dbub",
+				"C:\\Zuntek\\MyDatabases\\MySql\\Scripts\\zpeople_debug\\SambaHr_Script_Debug.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 106.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
