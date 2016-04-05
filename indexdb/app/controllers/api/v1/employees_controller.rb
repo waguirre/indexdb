@@ -24,7 +24,7 @@ class Api::V1::EmployeesController < ApplicationController
 
   def index
     # @employees = Employee.all.limit(params[:$top])
-    @employees = Employee.where("CALL employees_getall")
+    @employees = Employee.getall()
     respond_to do |format|
       format.html
       format.xml { render xml: @employees }
