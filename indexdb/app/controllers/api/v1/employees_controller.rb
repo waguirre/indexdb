@@ -24,6 +24,7 @@ class Api::V1::EmployeesController < ApplicationController
 
   def index
     # @employees = Employee.all.limit(params[:$top])
+    # @employees = Salary.all()
     @employees = Employee.getall()
     respond_to do |format|
       format.html

@@ -520,18 +520,26 @@
 	"buffers":
 	[
 		{
+			"file": "indexdb/app/assets/javascripts/angular/employees/employees.controller.js",
+			"settings":
+			{
+				"buffer_size": 2085,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "indexdb/app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 30606,
+				"buffer_size": 1590,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "indexdb/app/views/layouts/_headstyles.html.erb",
+			"file": "indexdb/app/assets/javascripts/angular/pos.js",
 			"settings":
 			{
-				"buffer_size": 138,
+				"buffer_size": 505,
 				"line_ending": "Windows"
 			}
 		},
@@ -539,7 +547,7 @@
 			"file": "indexdb/app/views/layouts/_headscripts.html.erb",
 			"settings":
 			{
-				"buffer_size": 3020,
+				"buffer_size": 3186,
 				"line_ending": "Windows"
 			}
 		}
@@ -552,9 +560,21 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "conver",
+		"last_filter": "setting",
 		"selected_items":
 		[
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"constru",
+				"Snippet: JS constructor pattern"
+			],
 			[
 				"conver",
 				"Indentation: Convert to Tabs"
@@ -908,10 +928,6 @@
 				"SFTP: Upload File"
 			],
 			[
-				"htmlpre",
-				"HTMLPrettify: Set Plugin Options"
-			],
-			[
 				"lodash find",
 				"Snippet: ES lodash/find"
 			],
@@ -946,10 +962,6 @@
 			[
 				"upgra",
 				"Package Control: Upgrade/Overwrite All Packages"
-			],
-			[
-				"constru",
-				"Snippet: JS constructor pattern"
 			],
 			[
 				"ajax",
@@ -1062,10 +1074,6 @@
 			[
 				"tsf",
 				"TFS: Add"
-			],
-			[
-				"list",
-				"Package Control: List Packages"
 			]
 		],
 		"width": 510.0
@@ -1094,34 +1102,39 @@
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/employees",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/less",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/stylesheets",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/employees",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/layouts",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/ui",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/ui/employees",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/config",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/config/environments",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/vendor",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/vendor/assets",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/vendor/assets/javascripts"
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/vendor/assets"
 	],
 	"file_history":
 	[
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/pos.js",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/application.js",
-		"/C/Zuntek/MyDownloads/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/index.html",
-		"/C/Zuntek/MyDownloads/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/employees/employees.module.js",
-		"/C/Zuntek/MyDownloads/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/js/flot-data.js",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/stylesheets/application.css.scss",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/layouts/_headscripts.html.erb",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/employees/employees.controller.js",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/pos.js",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/employees/employees.service.js",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/ui/employees/index.html.erb",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/layouts/application.html.erb",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/application.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/layouts/_headstyles.html.erb",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/stylesheets/application.css.scss",
+		"/C/Zuntek/MyDownloads/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html",
+		"/C/Zuntek/MyDownloads/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/index.html",
+		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/employees/employees.module.js",
+		"/C/Zuntek/MyDownloads/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/js/flot-data.js",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/Gemfile",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/controllers/ui/employees_controller.rb",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/config/locales/en.yml",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/ui/employees/index.html.erb",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/assets/javascripts/angular/employees/employees.service.js",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/config/environments/development.rb",
-		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/views/layouts/_headstyles.html.erb",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/app/controllers/application_controller.rb",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/config/database.yml",
 		"/C/NUBIXAR/MyProjects/opensource_language/test/ruby/indexdb/indexdb/config/initializers/defaults.rb",
@@ -1204,10 +1217,8 @@
 		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/Scripts/_references.js",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
 		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/js/angular/dashboard/dashboard.controller.js",
-		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/_AppWeb/static/css/layout.css",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/NormalizeFile.py",
-		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CSScomb/csscomb.js",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.py",
@@ -1232,8 +1243,7 @@
 		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Vacation.sql",
 		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Generate_Add_EndAgreement.sql",
 		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_Before_Year.sql",
-		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_Before.sql",
-		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_School.sql"
+		"/C/NUBIXAR/MyProjects/nubixar.visualstudio.com/app-samba-hrm/1.0.11/MyBiz/__MYSQL_SCRIPT__/7-CALCULATE/Payroll_Calculate_Get_Before.sql"
 	],
 	"find":
 	{
@@ -1267,6 +1277,101 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"inserted",
+			"onClickFillForerunnerDB",
+			"onClickFill",
+			"https",
+			"$rootScope.$db",
+			"db",
+			"rootScope",
+			"onClickEmpty",
+			"Fill",
+			"colection",
+			"collection",
+			"onClickFill",
+			"vm_employee",
+			"collection",
+			"tableStatus",
+			"tableStats",
+			"collection",
+			"metaStats",
+			"collection",
+			"metaStats",
+			"find",
+			"collection",
+			"tableStats",
+			"metaStats",
+			"query",
+			"EmployeesResourceService",
+			"load",
+			"collection",
+			"load",
+			"todo",
+			"());\n",
+			"employees",
+			"collection",
+			"fdb",
+			"collection",
+			"id",
+			"then",
+			"promise",
+			"().$",
+			"query",
+			"EmployeesResourceService",
+			"console",
+			"get",
+			"_ver_datatables_tools",
+			"rootScope",
+			"instanceof",
+			"true",
+			"this",
+			"EmployeesResourceService",
+			"args",
+			"EmployeesController",
+			"employeesController",
+			"EmployeesController",
+			"rootScope",
+			"vm_employee",
+			"args",
+			"fdb",
+			"args",
+			"methodName",
+			"media",
+			"application",
+			"javas",
+			" +",
+			"/\"+",
+			"_ver_forerunnerdb",
+			"javascript_include_tag",
+			"<%=",
+			"_cdn_googleapis",
+			"javascript_include_tag",
+			"sb",
+			"admin",
+			"metisMenu",
+			"_ver_bootstrap_switch",
+			"_ver_bootstraps_witch",
+			"_ver_boostrap_select",
+			"_cdn_cloudflare",
+			"stylesheet_link_tag",
+			"_cdn_cloudflare",
+			"stylesheet_link_tag",
+			"_cdn_cloudflare",
+			"+ ",
+			"/\"",
+			"bootswatch",
+			"_cdn_cloudflare",
+			"datatables_net",
+			"_ver_bootstrapdatetimepicker",
+			"_ver_datatablesnetresponsive",
+			"_ver_bootstrapdatetimepicker",
+			"_ver_bootstraps_witch",
+			"_ver_boostrapselect",
+			"v_bootstrapdatetimepicker",
+			"+ v_",
+			"cdn_cloudflare",
+			"StyleBundle",
+			"var cdn_css_bootstrap = new StyleBundle(",
 			"metisMenu",
 			"https",
 			"application",
@@ -1299,102 +1404,7 @@
 			"employees",
 			"funciton",
 			"employees",
-			"controller",
-			"jquery",
-			"true",
-			"_ver_lodash",
-			"_ver_bootstrapdatetimepicker",
-			"_ver_bootstrapswitch",
-			"_ver_numeral",
-			"_ver_moment",
-			"_ver_select2",
-			"_ver_bootstrapswitch",
-			"_ver_fontawesome",
-			"_ver_bootstrapdatetimepicker",
-			"v_",
-			"_cdn_cloudflare",
-			"cdn_cloudflare",
-			"ScriptBundle",
-			"cdn_js_google_charts_loader",
-			"_ver_datatablesnetresponsive",
-			"_ver_datatabletools",
-			"_ver_datatablesnet",
-			"_ver_datatabletools",
-			"_ver_datatablesnetresponsivebs",
-			"v_",
-			"_cdn_datatables",
-			"cdn_datatables",
-			"_ver_bootstrap_select",
-			"+ ",
-			"select",
-			"bootstrap",
-			"_cdn_cloudflare",
-			" $",
-			"_cdn_cloudflare",
-			"javascript_include_tag",
-			"_ver_bootstrap_select",
-			"bootstrap",
-			"_cdn_cloudflare",
-			"_ver_bootstrap_select",
-			"v_boostrapselect",
-			"_cdn_cloudflare",
-			"_cdn_maxcdn",
-			"cdn_cloudflare",
-			"_ver_bootstrap",
-			"jquery",
-			"angular",
-			"\"/",
-			"_ver_angular",
-			"jquery",
-			"angularjs",
-			"_cdn_googleapis",
-			"ScriptBundle",
-			"cdn_js_promise",
-			"var",
-			"\"//ajax.googleapis.com/ajax/libs/",
-			"_cdn_googleapis",
-			"$_ver_cdn",
-			"_ver_cdn_jsdelivr",
-			"_headscripts",
-			"1.5.0",
-			"_ver_angular",
-			"ver_angular",
-			"ANGULAR_VERSION",
-			"my_config",
-			"ANGULAR_VERSION",
-			"ajax",
-			"com",
-			"googleapis",
-			"ajax",
-			"https",
-			"config.assets",
-			"http",
-			"javascript_include_tag",
-			"Description",
-			"Title",
-			" %>",
-			"title_app",
-			"title_page",
-			"title_app",
-			"#",
-			"employee",
-			"scope",
-			"libv",
-			"indexdb",
-			"indexdb_development",
-			"hostname",
-			"mysql",
-			"Nomina",
-			"Contabilización",
-			"Bloquear",
-			"Nómina",
-			"Generación",
-			"lock",
-			"' ",
-			"Bloquear",
-			"Generación",
-			"PayrollIsBlockGenerate",
-			"PayrollIsBlockAccounting"
+			"controller"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1402,6 +1412,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"_ver_boostrap_select",
 			"",
 			"@Resources.Label.Action",
 			"_PayrollIsSalary",
@@ -1528,8 +1539,7 @@
 			"return InternalServerError(ex);",
 			"[HttpDelete]",
 			"[HttpGet]",
-			"[HttpPost]",
-			"OnClickAgreementRetirePrint"
+			"[HttpPost]"
 		],
 		"reverse": false,
 		"show_context": false,
@@ -1540,24 +1550,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "indexdb/app/views/layouts/application.html.erb",
+					"file": "indexdb/app/assets/javascripts/angular/employees/employees.controller.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30606,
+						"buffer_size": 2085,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								907,
-								298
+								959,
+								959
 							]
 						],
 						"settings":
@@ -1565,41 +1575,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1610,135 +1605,61 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": -0.0,
-						"translation.y": 186.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "indexdb/app/views/layouts/_headstyles.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 138,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
-						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 495.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "indexdb/app/views/layouts/_headscripts.html.erb",
+					"buffer": 1,
+					"file": "indexdb/app/views/layouts/application.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3020,
+						"buffer_size": 1590,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								383,
+								416
 							]
 						],
 						"settings":
@@ -1746,41 +1667,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1791,24 +1697,225 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "indexdb/app/assets/javascripts/angular/pos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "indexdb/app/views/layouts/_headscripts.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2750,
+								2750
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 52.0,
+						"translation.y": 775.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1874,12 +1981,32 @@
 		"selected_items":
 		[
 			[
-				"employees.mo",
-				"indexdb\\app\\assets\\javascripts\\angular\\employees\\employees.module.js"
+				"application.erb",
+				"indexdb\\app\\views\\layouts\\application.html.erb"
 			],
 			[
 				"pos.",
 				"indexdb\\app\\assets\\javascripts\\angular\\pos.js"
+			],
+			[
+				"employees.cont",
+				"indexdb\\app\\assets\\javascripts\\angular\\employees\\employees.controller.js"
+			],
+			[
+				"employees.serv",
+				"indexdb\\app\\assets\\javascripts\\angular\\employees\\employees.service.js"
+			],
+			[
+				"scripts",
+				"indexdb\\app\\views\\layouts\\_headscripts.html.erb"
+			],
+			[
+				"headstyles",
+				"indexdb\\app\\views\\layouts\\_headstyles.html.erb"
+			],
+			[
+				"employees.mo",
+				"indexdb\\app\\assets\\javascripts\\angular\\employees\\employees.module.js"
 			],
 			[
 				"application.js",
@@ -2364,26 +2491,6 @@
 			[
 				"lessperiod",
 				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_InMonth_LessPeriod.sql"
-			],
-			[
-				"payroll_calculate_roundaf",
-				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Afp.sql"
-			],
-			[
-				"payroll_calcu",
-				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate.sql"
-			],
-			[
-				"paryoll_roundeps",
-				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Basic_ByRound_Eps.sql"
-			],
-			[
-				"lessp",
-				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_Month_LessPeriod.sql"
-			],
-			[
-				"payroll_calculate_get_month_lessperiod",
-				"MyBiz\\__MYSQL_SCRIPT__\\7-CALCULATE\\Payroll_Calculate_Get_Month_LessPeriod.sql"
 			]
 		],
 		"width": 0.0
