@@ -10,6 +10,5 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //= rquire db
-//= require idbwrapper
 //= require angular/pos
 //= require angular/employees/employees.module
