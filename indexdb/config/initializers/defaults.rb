@@ -1,0 +1,1 @@
+Rails.application.config.my_config = 'foo'
