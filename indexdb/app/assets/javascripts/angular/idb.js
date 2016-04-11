@@ -8,7 +8,8 @@ var IDB = (function() {
 			return new IDB(args);
 		}
 		angular.module("idb", [])
-			.provider('$idbw', this.idbw);
+			.provider('$idbw', this.idbw)
+			.provider('$dexie', this.dexie);
 	}
 	IDB.prototype.idbw = function() {
 		var dbEmployee;
@@ -27,7 +28,6 @@ var IDB = (function() {
 					},
 				})
 			};
-
 			return idbw;
 		}());
 		return {
@@ -36,6 +36,20 @@ var IDB = (function() {
 			},
 		};
 	};
+	IDB.prototype.dexie = function() {
+		var db;
+
+		function create() {
+			db = new Dexie("smb-pos");
+		}
+		return {
+			$get: function() {
+				return db;
+			},
+			create:create,
+		};
+	};
+
 	return IDB;
 }());
 var idb = new IDB();

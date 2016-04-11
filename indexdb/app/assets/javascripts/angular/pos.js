@@ -11,18 +11,20 @@ var Pos = (function() {
 		if (!(this instanceof Pos)) {
 			return new Pos(args);
 		}
-		this.initidbw.$inject = [
-			"$idbwProvider",
+		this.dexie.$inject = [
+			"$dexieProvider",
 		];
 		angular.module("pos", [
 				"idb",
 				"rest",
 			])
-			.config(this.initidbw);
+			.config(this.dexie);
 	}
 
-	Pos.prototype.initidbw = function($idbwProvider) {
-
+	Pos.prototype.dexie = function($dexieProvider) {
+		console.log($dexieProvider);
+		$dexieProvider.create();
+		// $dexieProvider.version(1);
 	};
 
 	return Pos;

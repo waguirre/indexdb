@@ -63,7 +63,7 @@ var EmployeeController = (function() {
 		};
 		vm_employee.onClickWrapper = function() {
 			console.log(CountryIndexdbService.getCountries());
-			vm_employee.list = CountryIndexdbService.getCountries().then(function(data){
+			vm_employee.list = CountryIndexdbService.getCountries().then(function(data) {
 				console.log("---data---");
 				console.log(data);
 			});
