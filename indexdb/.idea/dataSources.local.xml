@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails indexdb: development" uuid="1ac9d012-9a2b-4510-8d7b-f81006327ddf">
+      <user-name>root</user-name>
+      <user-password>dfc4dfcbdfc0dfcbdfd9dfcbdfc4</user-password>
+    </data-source>
+    <data-source name="Rails indexdb: default" uuid="5d1eb8d4-d30d-4d93-9a1d-1da47da08b6e">
+      <user-name>root</user-name>
+      <user-password>dfc4dfcbdfc0dfcbdfd9dfcbdfc4</user-password>
+      <schema-pattern>employees.*</schema-pattern>
+      <default-schemas>employees.*</default-schemas>
+    </data-source>
+  </component>
+</project>

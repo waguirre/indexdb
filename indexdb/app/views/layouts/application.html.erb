@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html ng-app="pos">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title><%= content_for?(:title) ? yield(:title) : t('app') %></title>
+		<meta name="description" content="<%= content_for?(:description) ? yield(:description) : "Indexdb" %>">
+
+		<% $_cdn_maxcdn = "//maxcdn.bootstrapcdn.com/bootstrap/" %>
+		<% $_cdn_cloudflare = "//cdnjs.cloudflare.com/ajax/libs/" %>
+		<% $_cdn_datatables = "//cdn.datatables.net/" %>
+		<% $_cdn_googleapis = "//ajax.googleapis.com/ajax/libs/" %>
+		<% $_cdn_jsdelivr = "//cdn.jsdelivr.net/" %>
+
+		<% $_ver_angular = "1.5.0" %>
+		<% $_ver_jquery = "2.2.2" %>
+		<% $_ver_jquery_migrate = "1.2.1" %>
+		<% $_ver_bootstrap = "3.3.6" %>
+		<% $_ver_bootstrap_select = "1.9.4" %>
+		<% $_ver_datatablesnet = "1.10.11" %>
+		<% $_ver_datatablesnet_tools = "2.2.2" %>
+		<% $_ver_datatablesnet_responsive = "2.0.2" %>
+		<% $_ver_datatablesnet_responsivebs = "2.0.2" %>
+		<% $_ver_fontawesome = "4.5.0" %>
+		<% $_ver_bootstrap_switch = "3.3.2" %>
+		<% $_ver_select2 = "4.0.2" %>
+		<% $_ver_moment = "2.12.0" %>
+		<% $_ver_numeral = "1.5.3" %>
+		<% $_ver_lodash = "4.6.1" %>
+		<% $_ver_bootstrap_datetimepicker = "4.17.37" %>
+		<% $_ver_forerunnerdb = "1.3.750" %>
+
+		<%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
+		
+		<%= render 'layouts/headstyles.html' %>
+		<%= render 'layouts/headscripts.html' %>
+
+		<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+</head>
+<body>
+	<div id="wrapper">
+		<%= yield %>
+	</div>
+	<!-- /#wrapper -->
+</body>
+</html>

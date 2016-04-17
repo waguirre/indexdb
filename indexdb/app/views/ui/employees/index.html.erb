@@ -1,0 +1,43 @@
+<% content_for :title do %>Mi titulo en el content<% end %>
+<% content_for :description do %>Modulo <% end %>
+
+<div ng-controller="EmployeeController as vm_employee">
+	{{vm_employee.list | json}}
+	<nav class="navbar navbar-default" role="navigation">
+		<div class="container-fluid">
+			<a href="#" ng-click="vm_employee.onClickFillForerunnerDB()">Fill ForerunnerDB</a>
+			<a href="#" ng-click="vm_employee.onClickFillPouchDB()">Fill PouchDB</a>
+			<a href="#" ng-click="vm_employee.onClickFillYahit()">Fill Yahit</a>
+			<a href="#" ng-click="vm_employee.onClickFillDB()">Fill DB</a>
+			<a href="#" ng-click="vm_employee.onClickWrapper()">Fill IDB Wrapper</a>
+		</div>
+	</nav>
+
+	<div class="container">
+		<div class="row">
+			<input type="text" id="Id_first_name" name="first_name" ng-model="vm_employee.employee.first_name"/>
+			<a  class="btn btn-success" ng-click="vm_employee.onClickAdd()">Agrerar Fila</a>
+		</div>
+		<div class="table-responsive">
+			<table class="table table-hover">
+				<thead>
+					<tr>
+						<th></th>
+						<th>Empleado</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="item in vm_employee.lstemployee">
+						<td><a class="btn btn-danger" ng-click="vm_employee.onClickDelete()">Eliminar</a></td>
+						<td>{{item.first_name}}</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+</div>
+
+<%= form_tag do %>
+	Form contents
+<% end %>
